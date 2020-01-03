@@ -20,4 +20,4 @@ Here's a list of major features not yet available in the product, but planned or
 
 Disclaimer:
 
-_The Roadmap information provided is intended to outline the general product direction. It is intended for informational purposes only. We may decide to add new components at any time depending on our capability to deliver products meeting the Progress quality standards. The development, releases and timing of any features or functionality of Progress products remains at the sole discretion of Progress. The roadmap does not represent a commitment, obligation or promise to deliver any products to the customer at any time_
+_The Roadmap information provided is intended to outline the general product direction. It is intended for informational purposes only. We may decide to add new components at any time depending on our capability to deliver products meeting our quality standards. The development, releases and timing of any features or functionality our products remains at the sole discretion of us. The roadmap does not represent a commitment, obligation or promise to deliver any products to the customer at any time_
