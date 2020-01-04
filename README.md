@@ -20,6 +20,8 @@ Here's a list of major features not yet available in the product, but planned or
 * Displaying who voted on question/answer,
 * Moderator role
 
+There are also more minor features that will be added to the application in between these bigger ones.
+
 Disclaimer:
 
 _The Roadmap information provided is intended to outline the general product direction. It is intended for informational purposes only. We may decide to add new features at any time depending on our capability to deliver products meeting our quality standards. The development, releases and timing of any features or functionality our products remains at the sole discretion of us. The roadmap does not represent a commitment, obligation or promise to deliver any features to the customer at any time_
