@@ -12,8 +12,8 @@ This application is still in Beta development phase. We believe it gives enough 
 #### Latest Changes
 
 22.02.2020 (v1.4.1.1)
- - Displaying "Comment" button only if user has "Add Comment" permissions in space
- - Displaying "Insert image" icon in editor only if user has "Add Attachment" permissions in space
+ - (Bug fix) Displaying "Comment" button only if user has "Add Comment" permissions in space
+ - (Bug fix) Displaying "Insert image" icon in editor only if user has "Add Attachment" permissions in space
 
 #### Roadmap
 
