@@ -9,6 +9,12 @@ If you have any questions, you can also contact us directly at questions.answers
 ### Beta Version Information
 This application is still in Beta development phase. We believe it gives enough value to be already used, but it's still in active development. We appreciate your feedback, so feel free to send us feature requests, suggestions, questions and comments!
 
+#### Latest Changes
+
+22.02.2020 (v1.4.1.1)
+ - Displaying "Comment" button only if user has "Add Comment" permissions in space
+ - Displaying "Insert image" icon in editor only if user has "Add Attachment" permissions in space
+
 #### Roadmap
 
 Here's a list of major features not yet available in the product, but planned or condsidered for implementation:
