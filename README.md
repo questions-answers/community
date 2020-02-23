@@ -1,6 +1,6 @@
 Welcome to _Questions and Answers_ Community, [Atlassian Marketplace's Application](https://marketplace.atlassian.com/1221163) (link doesn't work yet as application is not yet published)
 
-### Documentation:
+### Documentation
 [Getting started](https://github.com/questions-answers/community/wiki)
 
 ### Getting help from the Community
