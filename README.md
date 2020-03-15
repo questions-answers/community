@@ -1,7 +1,10 @@
 Welcome to _Questions and Answers_ Community, [Atlassian Marketplace's Application](https://marketplace.atlassian.com/1221163)
 
 ### Documentation
-[Getting started](https://github.com/questions-answers/community/wiki)
+[Getting started](https://github.com/questions-answers/community/wiki/Documentation)
+
+### What's new?
+[Changelog](https://github.com/questions-answers/community/wiki/What's-new)
 
 ### Getting help from the Community
 [Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. Support staff and developers working on _Questions and Answers_ App check in regularly to help answer questions.
@@ -11,12 +14,6 @@ If you have any questions, you can also contact us directly at questions.answers
 
 ### Beta Version Information
 This application is still in Beta development phase. We believe it gives enough value to be already used, but it's still in active development. We appreciate your feedback, so feel free to send us feature requests, suggestions, questions and comments!
-
-#### Latest Changes
-
-22.02.2020 (v1.4.1.1)
- - (Bug fix) Displaying "Comment" button only if user has "Add Comment" permissions in space
- - (Bug fix) Displaying "Insert image" icon in editor only if user has "Add Attachment" permissions in space
 
 #### Roadmap
 
