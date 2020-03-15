@@ -19,7 +19,7 @@ This application is still in Beta development phase. We believe it gives enough 
 
 Here's a list of major features not yet available in the product, but planned or condsidered for implementation:
 
-* Adding attachments (not only images) to questions and answers,
+* DONE: Adding attachments (not only images) to questions and answers,
 * Email notifications (notifying when question was answered),
 * Mentions,
 * Displaying who voted on question/answer,
