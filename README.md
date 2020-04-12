@@ -20,7 +20,7 @@ This application is still in Beta development phase. We believe it gives enough 
 Here's a list of major features not yet available in the product, but planned or condsidered for implementation:
 
 * Adding attachments (not only images) to questions and answers ([Done](https://github.com/questions-answers/community/wiki/What's-new#15032020))
-* Integration with Slack ([In progress](https://github.com/questions-answers/community/issues/6))
+* Integration with Slack ([Done](https://github.com/questions-answers/community/wiki/What's-new#22042020))
 * Email notifications when question was answered, watching questions,
 * Mentions,
 * Displaying who voted on question/answer,
