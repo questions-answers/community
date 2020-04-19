@@ -5,10 +5,7 @@ Welcome to _Questions and Answers_ Community, [Atlassian Marketplace's Applicati
 * [What's new?](https://github.com/questions-answers/community/wiki/What's-new)
 
 ### Getting help from the Community
-[Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. Support staff and developers working on _Questions and Answers_ App check in regularly to help answer questions.
-
-### Direct support
-If you have any questions, you can also contact us directly at questions.answers.app@gmail.com
+[Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. If you have any questions, you can also contact us directly at questions.answers.app@gmail.com
 
 ### Beta Version Information
 This application is still in Beta development phase. We believe it gives enough value to be already used, but it's still in active development. We appreciate your feedback, so feel free to send us feature requests, suggestions, questions and comments!
