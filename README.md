@@ -1,13 +1,13 @@
 Welcome to _Questions and Answers_ Community, [Atlassian Marketplace's Application](https://marketplace.atlassian.com/1221163)
 
-### Documentation
+#### Documentation
 * [Getting started](https://github.com/questions-answers/community/wiki/Documentation)
 * [What's new?](https://github.com/questions-answers/community/wiki/What's-new)
 
-### Getting help from the Community
+#### Getting help from the Community
 [Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. If you have any questions, you can also contact us directly at questions.answers.app@gmail.com
 
-### Beta Version Information
+#### Beta Version Information
 This application is still in Beta development phase. We believe it gives enough value to be already used, but it's still in active development. We appreciate your feedback, so feel free to send us feature requests, suggestions, questions and comments!
 
 #### Roadmap
