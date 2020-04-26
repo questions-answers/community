@@ -19,6 +19,7 @@ This application is still in Beta development phase. We believe it gives enough 
 * Mentions,
 * Displaying who voted on question/answer,
 * Categories/topics ([In progress](https://github.com/questions-answers/community/issues/14)),
+* More search capabilities,
 * Moderator role
 
 There are also more minor features that will be added to the application in between these bigger ones.
