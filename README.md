@@ -19,7 +19,7 @@ This application is still in Beta development phase. We believe it gives enough 
 * Mentions,
 * Displaying who voted on question/answer,
 * Categories/topics ([Done](https://github.com/questions-answers/community/wiki/What's-new#17052020-assigning-tags-to-questions)),
-* More search capabilities,
+* More search capabilities ([In progress](https://github.com/questions-answers/community/issues/17)),
 * Moderator role
 
 There are also more minor features that will be added to the application in between these bigger ones.
