@@ -14,12 +14,12 @@ This application is still in Beta development phase. We believe it gives enough 
 
 * Adding attachments (not only images) to questions and answers ([Done](https://github.com/questions-answers/community/wiki/What's-new#15032020)),
 * Integration with Slack ([Done](https://github.com/questions-answers/community/wiki/What's-new#22042020)),
-* Email notifications after question answered,
-* Watching space/questions for new questions/answers,
-* Mentions,
-* Displaying who voted on question/answer,
 * Categories/topics ([Done](https://github.com/questions-answers/community/wiki/What's-new#17052020-assigning-tags-to-questions)),
 * More search capabilities ([In progress](https://github.com/questions-answers/community/issues/17)),
+* Email notifications after question answered,
+* Mentions,
+* Watching space/questions for new questions/answers,
+* Displaying who voted on question/answer,
 * Questions admin role
 
 There are also more minor features that will be added to the application in between these bigger ones.
