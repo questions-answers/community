@@ -18,7 +18,7 @@ This application is still in Beta development phase. We believe it gives enough 
 * Watching space/questions for new questions/answers,
 * Mentions,
 * Displaying who voted on question/answer,
-* Categories/topics ([In progress](https://github.com/questions-answers/community/issues/14)),
+* Categories/topics ([Done](https://github.com/questions-answers/community/wiki/What's-new#17052020-assigning-tags-to-questions)),
 * More search capabilities,
 * Moderator role
 
