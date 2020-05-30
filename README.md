@@ -15,7 +15,7 @@ This application is still in Beta development phase. We believe it gives enough 
 * Adding attachments (not only images) to questions and answers ([Done](https://github.com/questions-answers/community/wiki/What's-new#15032020-attaching-non-image-files-to-questionsanswers)),
 * Integration with Slack ([Done](https://github.com/questions-answers/community/wiki/What's-new#12042020-connecting-space-to-slack-channel)),
 * Categories/topics ([Done](https://github.com/questions-answers/community/wiki/What's-new#17052020-assigning-tags-to-questions)),
-* More search capabilities ([In progress](https://github.com/questions-answers/community/issues/17)),
+* More search capabilities ([Done](https://github.com/questions-answers/community/wiki/What's-new#30052020-new-feature-searching-sorting-and-filtering-questions-now-possible)),
 * Email notifications after question answered,
 * Mentions,
 * Watching space/questions for new questions/answers,
