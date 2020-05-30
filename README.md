@@ -16,7 +16,7 @@ This application is still in Beta development phase. We believe it gives enough 
 * Integration with Slack ([Done](https://github.com/questions-answers/community/wiki/What's-new#12042020-connecting-space-to-slack-channel)),
 * Categories/topics ([Done](https://github.com/questions-answers/community/wiki/What's-new#17052020-assigning-tags-to-questions)),
 * More search capabilities ([Done](https://github.com/questions-answers/community/wiki/What's-new#30052020-new-feature-searching-sorting-and-filtering-questions-now-possible)),
-* Email notifications after question answered,
+* Email notifications after question answered ([In progress](https://github.com/questions-answers/community/issues/7)),
 * Mentions,
 * Watching space/questions for new questions/answers,
 * Displaying who voted on question/answer,
