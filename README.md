@@ -10,6 +10,9 @@ Welcome to _Questions and Answers for Confluence_ Community, [Atlassian Marketpl
 #### Beta Version Information
 This application is still in Beta development phase. We believe it gives enough value to be already used, but it's still in active development. We appreciate your feedback, so feel free to send us feature requests, suggestions, questions and comments!
 
+#### Supported browsers information
+Internet Explorer is currently not supported (application won't work on this browser)
+
 #### Roadmap
 
 * Adding attachments (not only images) to questions and answers ([Done](https://github.com/questions-answers/community/wiki/What's-new#15032020-attaching-non-image-files-to-questionsanswers)),
