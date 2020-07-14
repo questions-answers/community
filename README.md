@@ -20,7 +20,7 @@ Internet Explorer is currently not supported (application won't work on this bro
 * Categories/topics ([Done](https://github.com/questions-answers/community/wiki/What's-new#17052020-assigning-tags-to-questions)),
 * More search capabilities ([Done](https://github.com/questions-answers/community/wiki/What's-new#30052020-new-feature-searching-sorting-and-filtering-questions-now-possible)),
 * Email notifications after question answered ([Planned for release](https://github.com/questions-answers/community/issues/7)),
-* Mentions ([In progress](https://github.com/questions-answers/community/issues/11)),
+* Mentions ([Planned for release](https://github.com/questions-answers/community/issues/11)),
 * Watching space/questions for new questions/answers,
 * Displaying who voted on question/answer,
 * Questions admin role
