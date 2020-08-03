@@ -1,8 +1,9 @@
 Welcome to _Questions and Answers for Confluence_ Community, [Atlassian Marketplace's Application](https://marketplace.atlassian.com/1221163)
 
 #### Documentation
-* [Getting started](https://github.com/questions-answers/community/wiki/Documentation)
 * [What's new?](https://github.com/questions-answers/community/wiki/What's-new)
+* [Getting started](https://github.com/questions-answers/community/wiki/Documentation)
+* [Google Chat integration](https://github.com/questions-answers/community/wiki/Google-Chat-integration)
 
 #### Getting help from the Community
 [Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. If you have any questions, you can also contact us directly at questions.answers.app@gmail.com
