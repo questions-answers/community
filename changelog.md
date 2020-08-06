@@ -1,3 +1,8 @@
+---
+layout: default
+title: Latest changes
+---
+
 ## 03.08.2020 Google Chat integration added
 
 It's now possible to send notifications about new questions to Google Chat room. This functionality can be enabled in space settings:
