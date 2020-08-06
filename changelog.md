@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Latest changes
 ---
+
+# Latest changes
 
 ## 03.08.2020 Google Chat integration added
 
