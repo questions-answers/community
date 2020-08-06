@@ -1,6 +1,8 @@
 Welcome to _Questions and Answers for Confluence_ Community, [Atlassian Marketplace's Application](https://marketplace.atlassian.com/1221163)
 
 #### Documentation
+
+* [What's new2?](./changelog.html)
 * [What's new?](https://github.com/questions-answers/community/wiki/What's-new)
 * [Getting started](https://github.com/questions-answers/community/wiki/Documentation)
 * [Google Chat integration](https://github.com/questions-answers/community/wiki/Google-Chat-integration)
