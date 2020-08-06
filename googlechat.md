@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Questions and Answers for Confluence
 ---
 
 # Google Chat integration
