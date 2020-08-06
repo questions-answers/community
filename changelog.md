@@ -15,7 +15,6 @@ After enabled, Google Chat notification will be sent when new question is asked:
 ![image](https://user-images.githubusercontent.com/731629/89203124-511e6f00-d5b4-11ea-85b7-96ef9a33ce22.png)
 
 &nbsp;
-***
 ## 25.07.2020 Slack connection and voting improvements
 
 * Slack channels list is now searchable,
@@ -23,7 +22,6 @@ After enabled, Google Chat notification will be sent when new question is asked:
 * Upvoting/unvoting: improved performance, stability and error handling
 
 &nbsp;
-***
 ## 11.07.2020 Stability fixes
 
 * Fixed connecting to Slack from Safari browser
@@ -31,7 +29,6 @@ After enabled, Google Chat notification will be sent when new question is asked:
 * Improved performance of "load more" questions button
 
 &nbsp;
-***
 ## 30.05.2020 New feature: searching, sorting and filtering questions now possible!
 
 You can now search, sort and filter questions:
@@ -44,7 +41,6 @@ You can now search, sort and filter questions:
 
 
 &nbsp;
-***
 ## 23.05.2020 Stability pack
 
 Number of smaller improvements and bug fixes were released this week:
@@ -55,7 +51,6 @@ Number of smaller improvements and bug fixes were released this week:
 * Improved opening links included in question/answer/comment content,
 * Added support for Microsoft Edge browser. Supported browsers: Chrome, Firefox, Safari and Edge. Internet Explorer is still not supported
 &nbsp;
-***
 ## 17.05.2020 Assigning tags to questions
 
 This is our biggest update so far. We've added ability to assign tags to questions. Going into details, this includes following functionalities:
@@ -107,7 +102,6 @@ Clicking on tag displays all questions tagged with it. Information about tag, in
 
 
 &nbsp;
-***
 ## 26.04.2020 New editor option: inserting panels
 
 You can now insert info panels to your questions and answers! See screenshot below:
@@ -115,7 +109,6 @@ You can now insert info panels to your questions and answers! See screenshot bel
 ![image](https://user-images.githubusercontent.com/731629/80303279-775f9200-87af-11ea-96ee-773dc918e139.png)
 
 &nbsp;
-***
 ## 19.04.2020 Global settings improvements
 
 Global settings page has been redesigned. 
@@ -126,7 +119,6 @@ Major changes:
 ![image](https://user-images.githubusercontent.com/731629/79683232-f6415180-8228-11ea-8d18-d2b146a414c0.png)
 
 &nbsp;
-***
 ## 12.04.2020 Connecting space to Slack channel
 
 Sending Slack notifications for newly asked questions
@@ -138,7 +130,6 @@ After enabled, Slack notification will be sent when new question is asked:
 ![image](https://user-images.githubusercontent.com/731629/79070573-0f04b100-7cd7-11ea-8098-c4a7508f3bc3.png)
 
 &nbsp;
-***
 ## 15.03.2020 Attaching non-image files to questions/answers
 
 ![image](https://user-images.githubusercontent.com/731629/76704048-9827c880-66d6-11ea-8633-ce9239e0929e.png)
