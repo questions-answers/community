@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Questions and Answers for Confluence
 ---
 
 # Getting Started
