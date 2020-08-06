@@ -2,8 +2,7 @@ Welcome to _Questions and Answers for Confluence_ Community, [Atlassian Marketpl
 
 #### Documentation
 
-* [What's new2?](./changelog.html)
-* [What's new?](https://github.com/questions-answers/community/wiki/What's-new)
+* [What's new?](./changelog.html)
 * [Getting started](https://github.com/questions-answers/community/wiki/Documentation)
 * [Google Chat integration](https://github.com/questions-answers/community/wiki/Google-Chat-integration)
 
