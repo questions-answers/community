@@ -3,8 +3,8 @@ Welcome to _Questions and Answers for Confluence_ Community, [Atlassian Marketpl
 #### Documentation
 
 * [What's new?](./changelog.html)
-* [Getting started](https://github.com/questions-answers/community/wiki/Documentation)
-* [Google Chat integration](https://github.com/questions-answers/community/wiki/Google-Chat-integration)
+* [Getting started](./start.html)
+* [Google Chat integration](./googlechat.html)
 
 #### Getting help from the Community
 [Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. If you have any questions, you can also contact us directly at questions.answers.app@gmail.com
