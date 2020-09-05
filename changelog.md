@@ -5,6 +5,18 @@ title: Questions and Answers Community
 
 # Latest changes
 
+## 05.09.2020 Voting UX improvements
+
+Voting has been redesigned. Existing voting widget has been replaced by "Upvoted by" bar displaying number of upvotes along with who upvoted question/answer.
+
+![image](https://user-images.githubusercontent.com/731629/92312957-66792580-efc6-11ea-94a4-14dd7a885fea.png)
+
+Other changes that have been made:
+* App's name changed to Questions and Answers Community,
+* _Beta version_ information has been removed from app header.
+* Minor UI improvements related to displaying avatars and comments' action buttons
+
+
 ## 11.08.2020 Support for e-mail notifications and mentions
 
 E-mail notifications will be now sent to question's author about new answers, as long as he/she waches the question. Every newly created questions are watched by default by question's author.
