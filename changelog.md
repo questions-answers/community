@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Questions and Answers for Confluence
+title: Questions and Answers Community
 ---
 
 # Latest changes
