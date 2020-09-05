@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Questions and Answers for Confluence
+title: Questions and Answers Community
 ---
 
 # Getting Started
 
-After installation, you should see new Questions section in both global navigation and in sidebar on every space. Global questions are stored in new space which _Questions and Answers for Confluence_ app created. 
+After installation, you should see new Questions section in both global navigation and in sidebar on every space. Global questions are stored in new space which _Questions and Answers Community_ app created. 
 
 Questions section on global level (or _Apps_ menu in new navigation UI):
 
