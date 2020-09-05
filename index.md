@@ -1,4 +1,4 @@
-Welcome to _Questions and Answers for Confluence_ Community, [Atlassian Marketplace's Application](https://marketplace.atlassian.com/1221163)
+Welcome to _Questions and Answers Community_ , [Atlassian Marketplace's Application](https://marketplace.atlassian.com/1221163)
 
 #### Documentation
 
