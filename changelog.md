@@ -5,6 +5,15 @@ title: Questions and Answers Community
 
 # Latest changes
 
+## 11.08.2020 Support for e-mail notifications and mentions
+
+E-mail notifications will be now sent to question's author about new answers, as long as he/she waches the question. Every newly created questions are watched by default by question's author.
+![image](https://user-images.githubusercontent.com/731629/92312885-7f350b80-efc5-11ea-9fe6-6190328f9979.png)
+
+Users can also mention others in question/answer/comment content.
+![image](https://user-images.githubusercontent.com/731629/92312879-6fb5c280-efc5-11ea-9310-564b973a23e7.png)
+
+&nbsp;
 ## 03.08.2020 Google Chat integration added
 
 It's now possible to send notifications about new questions to Google Chat room. This functionality can be enabled in space settings:
