@@ -13,8 +13,8 @@ Voting has been redesigned. Existing voting widget has been replaced by "Upvoted
 
 Other changes that have been made:
 * App's name changed to Questions and Answers Community,
-* _Beta version_ information has been removed from app header.
-* Minor UI improvements related to displaying avatars and comments' action buttons
+* Beta version information has been removed from app header,
+* Minor UI improvements related to displaying avatars and comments' action buttons.
 
 
 ## 11.08.2020 Support for e-mail notifications and mentions
