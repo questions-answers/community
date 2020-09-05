@@ -73,6 +73,8 @@ Number of smaller improvements and bug fixes were released this week:
 * Added max length validation for question title (maximum 230 characters),
 * Improved opening links included in question/answer/comment content,
 * Added support for Microsoft Edge browser. Supported browsers: Chrome, Firefox, Safari and Edge. Internet Explorer is still not supported
+
+
 &nbsp;
 ## 17.05.2020 Assigning tags to questions
 
