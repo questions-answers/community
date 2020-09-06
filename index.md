@@ -24,7 +24,7 @@ Internet Explorer is currently not supported (application won't work on this bro
 * Email notifications after question answered ([Planned for release](https://github.com/questions-answers/community/issues/7)),
 * Mentions ([Planned for release](https://github.com/questions-answers/community/issues/11)),
 * Watching space/questions for new questions/answers,
-* Displaying who voted on question/answer([Done](https://github.com/questions-answers/community/issues/12))
+* Displaying who voted on question/answer ([Done](https://github.com/questions-answers/community/issues/12))
 
 There are also more minor features that will be added to the application in between these bigger ones.
 
