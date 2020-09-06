@@ -7,7 +7,7 @@ Welcome to _Questions and Answers Community_ , [Atlassian Marketplace's Applicat
 * [Google Chat integration](./googlechat.html)
 
 #### Getting help from the Community
-[Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. If you have any questions, you can also contact us directly at questions.answers.app@gmail.com
+[Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. If you have any questions, you can also contact us directly at contact@questions-answers-community.com
 
 #### Beta Version Information
 This application is still in Beta development phase. We believe it gives enough value to be already used, but it's still in active development. We appreciate your feedback, so feel free to send us feature requests, suggestions, questions and comments!
@@ -24,7 +24,7 @@ Internet Explorer is currently not supported (application won't work on this bro
 * Email notifications after question answered ([Planned for release](https://github.com/questions-answers/community/issues/7)),
 * Mentions ([Planned for release](https://github.com/questions-answers/community/issues/11)),
 * Watching space/questions for new questions/answers,
-* Displaying who voted on question/answer
+* Displaying who voted on question/answer([Done](https://github.com/questions-answers/community/issues/12))
 
 There are also more minor features that will be added to the application in between these bigger ones.
 
