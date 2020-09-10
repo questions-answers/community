@@ -9,9 +9,6 @@ Welcome to _Questions and Answers Community_ , [Atlassian Marketplace's Applicat
 #### Getting help from the Community
 [Ask questions, report problems or browse discussions](https://github.com/questions-answers/community/issues) to find the information you need. If you have any questions, you can also contact us directly at contact@questions-answers-community.com
 
-#### Beta Version Information
-This application is still in Beta development phase. We believe it gives enough value to be already used, but it's still in active development. We appreciate your feedback, so feel free to send us feature requests, suggestions, questions and comments!
-
 #### Supported browsers information
 Internet Explorer is currently not supported (application won't work on this browser)
 
@@ -21,10 +18,11 @@ Internet Explorer is currently not supported (application won't work on this bro
 * Integration with Slack ([Done](https://github.com/questions-answers/community/wiki/What's-new#12042020-connecting-space-to-slack-channel)),
 * Categories/topics ([Done](https://github.com/questions-answers/community/wiki/What's-new#17052020-assigning-tags-to-questions)),
 * More search capabilities ([Done](https://github.com/questions-answers/community/wiki/What's-new#30052020-new-feature-searching-sorting-and-filtering-questions-now-possible)),
-* Email notifications after question answered ([Planned for release](https://github.com/questions-answers/community/issues/7)),
-* Mentions ([Planned for release](https://github.com/questions-answers/community/issues/11)),
+* Email notifications after question answered ([Done](https://github.com/questions-answers/community/issues/7)),
+* Mentions ([Done](https://github.com/questions-answers/community/issues/11)),
 * Watching space/questions for new questions/answers,
 * Displaying who voted on question/answer ([Done](https://github.com/questions-answers/community/issues/12))
+* We have more features ideas in our internal Roadmap. Please contact us at contact@questions-answers-community.com for details
 
 There are also more minor features that will be added to the application in between these bigger ones.
 
