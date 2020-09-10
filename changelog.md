@@ -5,6 +5,11 @@ title: Questions and Answers Community
 
 # Latest changes
 
+## 10.09.2020 Mentions and notifications rollout finalized.
+
+Mentions and notifications have been rolled out to existing customers.
+
+
 ## 05.09.2020 Voting UX improvements
 
 Voting has been redesigned. Existing voting widget has been replaced by "Upvoted by" bar displaying number of upvotes along with who upvoted question/answer.
