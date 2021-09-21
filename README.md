@@ -1,2 +1,2 @@
 # community
-Q&A Community for Confluence - Atlassian Marketplace App
+Community Questions for Confluence - Atlassian Marketplace App
